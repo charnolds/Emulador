@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc_drops>
+	<npc_drop npc_id="234529">
+		<drop_group name="manas" use_category="true">
+			<drop item_id="167000778" chance="10.2" min_amount="1" max_amount="4" name="Manastone: Magical Critical Resistance +5"/>
+			<drop item_id="167020061" chance="1.2" min_amount="1" max_amount="1" name="Manastone: Magical Critical Resistance +5"/>
+		</drop_group>
+		<drop_group name="manas" use_category="true">
+			<drop item_id="167000776" chance="10.2" min_amount="1" max_amount="4" name="Manastone: Resist magic"/>
+			<drop item_id="167020054" chance="10.2" min_amount="1" max_amount="1" name="Manastone: Resist magic"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="234296">
+		<drop_group name="manas" use_category="true">
+			<drop item_id="167000778" chance="10.2" min_amount="1" max_amount="4" name="Manastone: Magical Critical Resistance +5"/>
+			<drop item_id="167020061" chance="1.2" min_amount="1" max_amount="1" name="Manastone: Magical Critical Resistance +5"/>
+		</drop_group>
+		<drop_group name="manas" use_category="true">
+			<drop item_id="167000776" chance="10.2" min_amount="1" max_amount="4" name="Manastone: Resist magic"/>
+			<drop item_id="167020054" chance="10.2" min_amount="1" max_amount="1" name="Manastone: Resist magic"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="234269">
+		<drop_group name="manas" use_category="true">
+			<drop item_id="167000778" chance="10.2" min_amount="1" max_amount="4" name="Manastone: Magical Critical Resistance +5"/>
+			<drop item_id="167020061" chance="1.2" min_amount="1" max_amount="1" name="Manastone: Magical Critical Resistance +5"/>
+		</drop_group>
+		<drop_group name="manas" use_category="true">
+			<drop item_id="167000776" chance="10.2" min_amount="1" max_amount="4" name="Manastone: Resist magic"/>
+			<drop item_id="167020054" chance="10.2" min_amount="1" max_amount="1" name="Manastone: Resist magic"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="234271">
+		<drop_group name="manas" use_category="true">
+			<drop item_id="167000778" chance="10.2" min_amount="1" max_amount="4" name="Manastone: Magical Critical Resistance +5"/>
+			<drop item_id="167020061" chance="1.2" min_amount="1" max_amount="1" name="Manastone: Magical Critical Resistance +5"/>
+		</drop_group>
+		<drop_group name="manas" use_category="true">
+			<drop item_id="167000776" chance="10.2" min_amount="1" max_amount="4" name="Manastone: Resist magic"/>
+			<drop item_id="167020054" chance="10.2" min_amount="1" max_amount="1" name="Manastone: Resist magic"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="234277">
+		<drop_group name="manas" use_category="true">
+			<drop item_id="167000778" chance="10.2" min_amount="1" max_amount="4" name="Manastone: Magical Critical Resistance +5"/>
+			<drop item_id="167020061" chance="1.2" min_amount="1" max_amount="1" name="Manastone: Magical Critical Resistance +5"/>
+		</drop_group>
+		<drop_group name="manas" use_category="true">
+			<drop item_id="167000776" chance="10.2" min_amount="1" max_amount="4" name="Manastone: Resist magic"/>
+			<drop item_id="167020054" chance="10.2" min_amount="1" max_amount="1" name="Manastone: Resist magic"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="234279">
+		<drop_group name="manas" use_category="true">
+			<drop item_id="167000778" chance="10.2" min_amount="1" max_amount="4" name="Manastone: Magical Critical Resistance +5"/>
+			<drop item_id="167020061" chance="1.2" min_amount="1" max_amount="1" name="Manastone: Magical Critical Resistance +5"/>
+		</drop_group>
+		<drop_group name="manas" use_category="true">
+			<drop item_id="167000776" chance="10.2" min_amount="1" max_amount="4" name="Manastone: Resist magic"/>
+			<drop item_id="167020054" chance="10.2" min_amount="1" max_amount="1" name="Manastone: Resist magic"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="234280">
+		<drop_group name="manas" use_category="true">
+			<drop item_id="167000778" chance="10.2" min_amount="1" max_amount="4" name="Manastone: Magical Critical Resistance +5"/>
+			<drop item_id="167020061" chance="1.2" min_amount="1" max_amount="1" name="Manastone: Magical Critical Resistance +5"/>
+		</drop_group>
+		<drop_group name="manas" use_category="true">
+			<drop item_id="167000776" chance="10.2" min_amount="1" max_amount="4" name="Manastone: Resist magic"/>
+			<drop item_id="167020054" chance="10.2" min_amount="1" max_amount="1" name="Manastone: Resist magic"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="855263">
+		<drop_group name="nether" use_category="true">
+			<drop item_id="101901153" chance="10.2" min_amount="1" max_amount="1" name="Nether Dragon King's Aethercannon"/>
+			<drop item_id="102101088" chance="10.2" min_amount="1" max_amount="1" name="Nether Dragon King's Cipher-Blade"/>
+			<drop item_id="101801244" chance="10.2" min_amount="1" max_amount="1" name="Nether Dragon King's Pistol"/>
+			<drop item_id="101701388" chance="10.2" min_amount="1" max_amount="1" name="Nether Dragon King's Bow"/>
+			<drop item_id="100201531" chance="10.2" min_amount="1" max_amount="1" name="Nether Dragon King's Dagger"/>
+		</drop_group>
+		<drop_group name="nether" use_category="true">
+			<drop item_id="100901397" chance="10.2" min_amount="1" max_amount="1" name="Nether Dragon King's Greatsword"/>
+			<drop item_id="100101356" chance="10.2" min_amount="1" max_amount="1" name="Nether Dragon King's Mace"/>
+			<drop item_id="100501333" chance="10.2" min_amount="1" max_amount="1" name="Nether Dragon King's Orb"/>
+			<drop item_id="101301288" chance="10.2" min_amount="1" max_amount="1" name="Nether Dragon King's Polearm"/>
+			<drop item_id="115001797" chance="10.2" min_amount="1" max_amount="1" name="Nether Dragon King's Shield"/>
+		</drop_group>
+		<drop_group name="nether" use_category="true">
+			<drop item_id="100601452" chance="10.2" min_amount="1" max_amount="1" name="Nether Dragon King's Spellbook"/>
+			<drop item_id="101501378" chance="10.2" min_amount="1" max_amount="1" name="Nether Dragon King's Staff"/>
+			<drop item_id="102001271" chance="10.2" min_amount="1" max_amount="1" name="Nether Dragon King's Harp"/>
+			<drop item_id="100001762" chance="10.2" min_amount="1" max_amount="1" name="Nether Dragon King's Sword"/>
+		</drop_group>
+		<drop_group name="EVENTO">
+			<drop item_id="188052995" chance="10.05" min_amount="1" max_amount="1" eachmember="true"/>
+		</drop_group>
+		<drop_group name="Temper/ceranium">
+			<drop item_id="166030009" chance="1.05" min_amount="1" max_amount="5" eachmember="true"/>
+		</drop_group>
+		<drop_group name="Temper/ceranium">
+			<drop item_id="186000242" chance="1.05" min_amount="1" max_amount="5" eachmember="true"/>
+		</drop_group>
+		<drop_group name="Skins!">
+			<drop item_id="110900695" chance="1.05" min_amount="1" max_amount="1" eachmember="true"/>
+			<drop item_id="110900698" chance="2.05" min_amount="1" max_amount="1" eachmember="true"/>
+			<drop item_id="110900700" chance="3.05" min_amount="1" max_amount="1" eachmember="true"/>
+			<drop item_id="110900839" chance="1.05" min_amount="1" max_amount="1" eachmember="true"/>
+			<drop item_id="110900841" chance="3.05" min_amount="1" max_amount="1" eachmember="true"/>
+		</drop_group>
+	</npc_drop>
+</npc_drops>

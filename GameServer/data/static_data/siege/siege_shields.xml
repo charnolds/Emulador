@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shields xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="siege_shields.xsd">
+    <shield id="1131" map="400010000" name="OCCIDENTAL_FORTRESS" radius="50.0">
+        <center x="2790.043" y="2609.036" z="1516.0541"/>
+    </shield>
+</shields>

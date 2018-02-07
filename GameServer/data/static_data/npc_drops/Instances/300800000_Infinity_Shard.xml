@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc_drops xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="npc_drops.xsd">
+	<npc_drop npc_id="231073"> <!-- Hyperion -->
+		<drop_group name="QUEST_ITEM" use_category="true" race="PC_ALL">
+			<drop item_id="186000257" chance="100" min_amount="1" max_amount="1" no_reduce="true" eachmember="true"/>
+		</drop_group>
+		<drop_group name="NAMED_CHEST" use_category="true" race="PC_ALL">
+			<drop item_id="166030005" chance="1.52" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Tempering Solution"/>
+			<drop item_id="188053023" chance="2.52" min_amount="1" max_amount="1" no_reduce="false" eachmember="true"/>			
+		</drop_group>
+		<drop_group name="CHEST" use_category="true" race="PC_ALL">
+			<drop item_id="188052387" chance="100" min_amount="1" max_amount="1" no_reduce="true" eachmember="true"/>
+			<drop item_id="188052718" chance="100" min_amount="1" max_amount="1" no_reduce="true" eachmember="true"/>
+		</drop_group>
+		<drop_group name="CHEST_SUPPLY" use_category="true" race="PC_ALL">
+			<drop item_id="188052501" chance="5.2" min_amount="1" max_amount="1" no_reduce="false" eachmember="true"/>
+		</drop_group>
+	</npc_drop>
+</npc_drops>

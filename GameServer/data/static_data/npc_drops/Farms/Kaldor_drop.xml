@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?> <!--       -->
+<npc_drops>
+	<npc_drop npc_id="234294">
+		<drop_group name="items">
+			<drop item_id="167010180" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000768" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000772" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000777" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000773" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000769" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000766" chance="10.02" min_amount="1" max_amount="5"/>
+		</drop_group>
+		<drop_group name="items">
+			<drop item_id="167010180" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000770" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000775" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000778" chance="10.01" min_amount="1" max_amount="5"/>
+			<drop item_id="167000767" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000771" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000776" chance="10.01" min_amount="1" max_amount="5"/>
+		</drop_group>
+		<drop_group name="items">
+			<drop item_id="164002010" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000323" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164002011" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000330" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000324" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="162002029" chance="10.02" min_amount="1" max_amount="5"/>
+		</drop_group>
+		<drop_group name="items">			
+
+			<drop item_id="164000325" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="162000023" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000326" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000066" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000121" chance="10.02" min_amount="1" max_amount="5"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="234530">
+		<drop_group name="items">
+			<drop item_id="167010180" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000768" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000772" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000777" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000773" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000769" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000766" chance="10.02" min_amount="1" max_amount="5"/>
+		</drop_group>
+		<drop_group name="items">
+			<drop item_id="167010180" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000770" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000775" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000778" chance="10.01" min_amount="1" max_amount="5"/>
+			<drop item_id="167000767" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000771" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000776" chance="10.01" min_amount="1" max_amount="5"/>
+		</drop_group>
+		<drop_group name="items">
+			<drop item_id="164002010" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000323" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164002011" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000330" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000324" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="162002029" chance="10.02" min_amount="1" max_amount="5"/>
+		</drop_group>
+		<drop_group name="items">			
+
+			<drop item_id="164000325" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="162000023" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000326" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000066" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000121" chance="10.02" min_amount="1" max_amount="5"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="234298">
+		<drop_group name="items">
+			<drop item_id="167010180" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000768" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000772" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000777" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000773" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000769" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000766" chance="10.02" min_amount="1" max_amount="5"/>
+		</drop_group>
+		<drop_group name="items">
+			<drop item_id="167010180" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000770" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000775" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000778" chance="10.01" min_amount="1" max_amount="5"/>
+			<drop item_id="167000767" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000771" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000776" chance="10.01" min_amount="1" max_amount="5"/>
+		</drop_group>
+		<drop_group name="items">
+			<drop item_id="164002010" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000323" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164002011" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000330" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000324" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="162002029" chance="10.02" min_amount="1" max_amount="5"/>
+		</drop_group>
+		<drop_group name="items">			
+
+			<drop item_id="164000325" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="162000023" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000326" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000066" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000121" chance="10.02" min_amount="1" max_amount="5"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="234296">
+		<drop_group name="items">
+			<drop item_id="167010180" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000768" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000772" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000777" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000773" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000769" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000766" chance="10.02" min_amount="1" max_amount="5"/>
+		</drop_group>
+		<drop_group name="items">
+			<drop item_id="167010180" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000770" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000775" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000778" chance="10.01" min_amount="1" max_amount="5"/>
+			<drop item_id="167000767" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000771" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000776" chance="10.01" min_amount="1" max_amount="5"/>
+		</drop_group>
+		<drop_group name="items">
+			<drop item_id="164002010" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000323" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164002011" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000330" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000324" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="162002029" chance="10.02" min_amount="1" max_amount="5"/>
+		</drop_group>
+		<drop_group name="items">			
+
+			<drop item_id="164000325" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="162000023" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000326" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000066" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000121" chance="10.02" min_amount="1" max_amount="5"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="234529">
+		<drop_group name="items">
+			<drop item_id="167010180" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000768" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000772" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000777" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000773" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000769" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000766" chance="10.02" min_amount="1" max_amount="5"/>
+		</drop_group>
+		<drop_group name="items">
+			<drop item_id="167010180" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000770" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000775" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000778" chance="10.01" min_amount="1" max_amount="5"/>
+			<drop item_id="167000767" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000771" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000776" chance="10.01" min_amount="1" max_amount="5"/>
+		</drop_group>
+		<drop_group name="items">
+			<drop item_id="164002010" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000323" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164002011" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000330" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000324" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="162002029" chance="10.02" min_amount="1" max_amount="5"/>
+		</drop_group>
+		<drop_group name="items">			
+
+			<drop item_id="164000325" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="162000023" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000326" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000066" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000121" chance="10.02" min_amount="1" max_amount="5"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="234271">
+		<drop_group name="items">
+			<drop item_id="167010180" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000768" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000772" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000777" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000773" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000769" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000766" chance="10.02" min_amount="1" max_amount="5"/>
+		</drop_group>
+		<drop_group name="items">
+			<drop item_id="167010180" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000770" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000775" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000778" chance="10.01" min_amount="1" max_amount="5"/>
+			<drop item_id="167000767" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000771" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="167000776" chance="10.01" min_amount="1" max_amount="5"/>
+		</drop_group>
+		<drop_group name="items">
+			<drop item_id="164002010" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000323" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164002011" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000330" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000324" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="162002029" chance="10.02" min_amount="1" max_amount="5"/>
+		</drop_group>
+		<drop_group name="items">			
+
+			<drop item_id="164000325" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="162000023" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000326" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000066" chance="10.02" min_amount="1" max_amount="5"/>
+			<drop item_id="164000121" chance="10.02" min_amount="1" max_amount="5"/>
+		</drop_group>
+	</npc_drop>
+</npc_drops>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc_drops>
+	<npc_drop npc_id="230076"><!-- Danuar Mysticarium -->
+		<drop_group name="HOK_AC_ELYOS" race="ELYOS">
+			<drop item_id="188053210" chance="10.0" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" /><!-- Bundle of Ancient Coins -->
+		</drop_group>
+		<drop_group name="HOK_BUNDLE_ELYOS" race="ELYOS">
+			<drop item_id="188052646" chance="15.0" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" /><!-- Bundle of regenerating Manastones -->
+			<drop item_id="188052556" chance="15.0" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" /><!-- Bundle of regenerating Manastones -->
+		</drop_group>
+		<drop_group name="HOK_KINAH_ELYOS" race="ELYOS">
+			<drop item_id="182400001" chance="50.0" min_amount="10000" max_amount="35000" no_reduce="false" eachmember="false" /><!-- Kinah -->
+		</drop_group>
+		<drop_group name="HOK_AP_ELYOS" race="ELYOS">
+			<drop item_id="186000066" chance="2.0" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" /><!-- Lesser Ancient Icon -->
+		</drop_group>
+		<drop_group name="HOK_POTIONS_ELYOS" race="ELYOS">
+			<drop item_id="162000119" chance="25.0" min_amount="2" max_amount="2" no_reduce="false" eachmember="false" /><!-- Premium Life Potion -->
+			<drop item_id="162000122" chance="25.0" min_amount="2" max_amount="2" no_reduce="false" eachmember="false" /><!-- Premium Life Serum -->
+			<drop item_id="162000120" chance="25.0" min_amount="2" max_amount="2" no_reduce="false" eachmember="false" /><!-- Premium Mana Potion -->
+			<drop item_id="162000123" chance="25.0" min_amount="2" max_amount="2" no_reduce="false" eachmember="false" /><!-- Premium Mana Serum -->
+		</drop_group>
+		<drop_group name="HOK_AC_ASMODIANS" race="ASMODIANS">
+			<drop item_id="188053210" chance="10.0" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" /><!-- Bundle of Ancient Coins -->
+		</drop_group>
+		<drop_group name="HOK_BUNDLE_ASMODIANS" race="ASMODIANS">
+			<drop item_id="188052646" chance="15.0" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" /><!-- Bundle of regenerating Manastones -->
+			<drop item_id="188052556" chance="15.0" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" /><!-- Bundle of regenerating Manastones -->
+		</drop_group>
+		<drop_group name="HOK_KINAH_ASMODIANS" race="ASMODIANS">
+			<drop item_id="182400001" chance="50.0" min_amount="10000" max_amount="35000" no_reduce="false" eachmember="false" /><!-- Kinah -->
+		</drop_group>
+		<drop_group name="HOK_AP_ASMODIANS" race="ASMODIANS">
+			<drop item_id="186000066" chance="2.0" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" /><!-- Lesser Ancient Icon -->
+		</drop_group>
+		<drop_group name="HOK_POTIONS_ASMODIANS" race="ASMODIANS">
+			<drop item_id="162000119" chance="25.0" min_amount="2" max_amount="2" no_reduce="false" eachmember="false" /><!-- Premium Life Potion -->
+			<drop item_id="162000122" chance="25.0" min_amount="2" max_amount="2" no_reduce="false" eachmember="false" /><!-- Premium Life Serum -->
+			<drop item_id="162000120" chance="25.0" min_amount="2" max_amount="2" no_reduce="false" eachmember="false" /><!-- Premium Mana Potion -->
+			<drop item_id="162000123" chance="25.0" min_amount="2" max_amount="2" no_reduce="false" eachmember="false" /><!-- Premium Mana Serum -->
+		</drop_group>
+	</npc_drop>
+</npc_drops>

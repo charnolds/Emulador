@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc_drops>
+	<npc_drop npc_id="287276">
+		<drop_group name="craft">
+			<drop item_id="152000222" chance="1.02" min_amount="3" max_amount="5"/>
+		</drop_group>
+		<drop_group name="craft">
+			<drop item_id="169405237" chance="1.02" min_amount="3" max_amount="5"/>
+		</drop_group>
+		<drop_group name="craft">
+			<drop item_id="169405256" chance="1.02" min_amount="3" max_amount="5"/>
+		</drop_group>
+		<drop_group name="craft">
+			<drop item_id="169405235" chance="1.02" min_amount="3" max_amount="5"/>
+		</drop_group>
+		<drop_group name="craft">
+			<drop item_id="169405255" chance="1.02" min_amount="3" max_amount="5"/>
+		</drop_group>
+		<drop_group name="pallasite ore">
+			<drop item_id="169405338" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="powershard">
+			<drop item_id="169000011" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="aether">
+			<drop item_id="152000916" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="mitril">
+			<drop item_id="186000243" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="fargment">
+			<drop item_id="186000147" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="Animas">
+			<drop item_id="152012563" chance="1.02" min_amount="5" max_amount="15"/>
+			<drop item_id="152012573" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="Animas">
+			<drop item_id="152012564" chance="1.02" min_amount="5" max_amount="15"/>
+			<drop item_id="152012565" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="Animas">
+			<drop item_id="152012576" chance="1.02" min_amount="5" max_amount="15"/>
+			<drop item_id="152012574" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="Animas">
+			<drop item_id="152012559" chance="1.02" min_amount="5" max_amount="15"/>
+			<drop item_id="152012572" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="Animas">
+			<drop item_id="152012569" chance="1.02" min_amount="5" max_amount="15"/>
+			<drop item_id="152012567" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="287277">
+		<drop_group name="pallasite ore">
+			<drop item_id="169405338" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="powershard">
+			<drop item_id="169000011" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="aether">
+			<drop item_id="152000916" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="mitril">
+			<drop item_id="186000243" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="fargment">
+			<drop item_id="186000147" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="Animas">
+			<drop item_id="152012563" chance="1.02" min_amount="5" max_amount="15"/>
+			<drop item_id="152012573" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="Animas">
+			<drop item_id="152012564" chance="1.02" min_amount="5" max_amount="15"/>
+			<drop item_id="152012565" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="Animas">
+			<drop item_id="152012576" chance="1.02" min_amount="5" max_amount="15"/>
+			<drop item_id="152012574" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="Animas">
+			<drop item_id="152012559" chance="1.02" min_amount="5" max_amount="15"/>
+			<drop item_id="152012572" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="Animas">
+			<drop item_id="152012569" chance="1.02" min_amount="5" max_amount="15"/>
+			<drop item_id="152012567" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="235219">
+		<drop_group name="pallasite ore">
+			<drop item_id="169405338" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="powershard">
+			<drop item_id="169000011" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="aether">
+			<drop item_id="152000916" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="mitril">
+			<drop item_id="186000243" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="fargment">
+			<drop item_id="186000147" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="Animas">
+			<drop item_id="152012563" chance="1.02" min_amount="5" max_amount="15"/>
+			<drop item_id="152012573" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="Animas">
+			<drop item_id="152012564" chance="1.02" min_amount="5" max_amount="15"/>
+			<drop item_id="152012565" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="Animas">
+			<drop item_id="152012576" chance="1.02" min_amount="5" max_amount="15"/>
+			<drop item_id="152012574" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="Animas">
+			<drop item_id="152012559" chance="1.02" min_amount="5" max_amount="15"/>
+			<drop item_id="152012572" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="Animas">
+			<drop item_id="152012569" chance="1.02" min_amount="5" max_amount="15"/>
+			<drop item_id="152012567" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="235220">
+		<drop_group name="pallasite ore">
+			<drop item_id="169405338" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="powershard">
+			<drop item_id="169000011" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="aether">
+			<drop item_id="152000916" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="mitril">
+			<drop item_id="186000243" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="fargment">
+			<drop item_id="186000147" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="Animas">
+			<drop item_id="152012563" chance="1.02" min_amount="5" max_amount="15"/>
+			<drop item_id="152012573" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="Animas">
+			<drop item_id="152012564" chance="1.02" min_amount="5" max_amount="15"/>
+			<drop item_id="152012565" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="Animas">
+			<drop item_id="152012576" chance="1.02" min_amount="5" max_amount="15"/>
+			<drop item_id="152012574" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="Animas">
+			<drop item_id="152012559" chance="1.02" min_amount="5" max_amount="15"/>
+			<drop item_id="152012572" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+		<drop_group name="Animas">
+			<drop item_id="152012569" chance="1.02" min_amount="5" max_amount="15"/>
+			<drop item_id="152012567" chance="1.02" min_amount="5" max_amount="15"/>
+		</drop_group>
+	</npc_drop>
+</npc_drops>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawns>
+    <spawn_map map_id="110010000">
+        <spawn npc_id="203234" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="1455.8483" y="1527.1882" z="573.0719" h="2"/>
+        </spawn>
+        <spawn npc_id="203235" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="1457.6067" y="1523.997" z="573.0719" h="58"/>
+        </spawn>
+        <spawn npc_id="231073" respawn_time="0" difficult_id="0" custom="true"/>
+        <spawn npc_id="802230" respawn_time="295" difficult_id="0" custom="true"/>
+        <spawn npc_id="203747" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="1576.32" y="1616.01" z="564.44" h="13" walker_id="6D1D49B75608A076FFF882A987A0D83921633F01"/>
+        </spawn>
+        <spawn npc_id="203739" respawn_time="295" difficult_id="0" custom="true"/>
+        <spawn npc_id="730365" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="1462.4406" y="1511.7163" z="573.4303" h="61"/>
+        </spawn>
+        <spawn npc_id="831031" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="1457.6206" y="1534.3738" z="573.0719" h="7"/>
+        </spawn>
+        <spawn npc_id="215280" respawn_time="0" difficult_id="0" custom="true"/>
+        <spawn npc_id="216183" respawn_time="0" difficult_id="0" custom="true"/>
+        <spawn npc_id="799063" respawn_time="1" difficult_id="0" custom="true">
+            <spot x="1893.2253" y="1427.5326" z="590.2104" h="45"/>
+        </spawn>
+        <spawn npc_id="277224" respawn_time="0" difficult_id="0" custom="true"/>
+        <spawn npc_id="203870" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="1496.38" y="1446.33" z="572.8724" h="22" walker_id="D9E38819C01A85E27BE8CC955648D8F62E9AF497"/>
+        </spawn>
+        <spawn npc_id="218553" respawn_time="295" difficult_id="0" custom="true"/>
+        <spawn npc_id="214696" respawn_time="0" difficult_id="0" custom="true"/>
+        <spawn npc_id="213780" respawn_time="0" difficult_id="0" custom="true"/>
+        <spawn npc_id="217647" respawn_time="0" difficult_id="0" custom="true"/>
+        <spawn npc_id="218492" respawn_time="0" difficult_id="0" custom="true"/>
+    </spawn_map>
+</spawns>

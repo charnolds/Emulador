@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawns>
+    <spawn_map map_id="600090000">
+        <spawn npc_id="234254" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="612.6392" y="1197.804" z="145.9936" h="114" random_walk="4"/>
+            <spot x="630.7654" y="1170.973" z="146.0746" h="75" random_walk="4"/>
+            <spot x="641.6637" y="1176.829" z="145.3845" h="54" random_walk="4"/>
+            <spot x="614.0471" y="1226.286" z="145.6815" h="114" random_walk="4"/>
+            <spot x="597.0143" y="1238.122" z="150.3155" h="72" random_walk="4"/>
+            <spot x="599.9151" y="1261.306" z="151.5416" h="111" random_walk="4"/>
+            <spot x="854.7186" y="1200.215" z="145.5548" h="88" random_walk="4"/>
+            <spot x="848.0661" y="1218.627" z="148.4055" h="84" random_walk="4"/>
+            <spot x="872.6031" y="1208.375" z="146.4317" h="14" random_walk="4"/>
+            <spot x="914.806" y="1111.098" z="141.4906" h="100" random_walk="4"/>
+            <spot x="919.4017" y="1077.9" z="143.5712" h="51" random_walk="4"/>
+            <spot x="929.4014" y="1111.614" z="139.0881" h="58" random_walk="4"/>
+            <spot x="952.5693" y="1120.093" z="135.7118" h="104" random_walk="4"/>
+            <spot x="948.1365" y="1152.551" z="136.4594" h="54" random_walk="4"/>
+        </spawn>
+        <spawn npc_id="702618" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="790.98267" y="491.49084" z="143.47517" h="90"/>
+        </spawn>
+        <spawn npc_id="804577" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="791.27985" y="489.02353" z="142.90796" h="0" static_id="77"/>
+            <spot x="797.9769" y="483.92163" z="143.47517" h="47"/>
+            <spot x="785.26685" y="484.78445" z="143.47517" h="3"/>
+            <spot x="788.7804" y="494.7243" z="143.59229" h="93"/>
+        </spawn>
+        <spawn npc_id="804577" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="791.27985" y="489.02353" z="142.90796" h="0" static_id="77"/>
+            <spot x="789.42145" y="488.22443" z="143.47517" h="98"/>
+        </spawn>
+    </spawn_map>
+</spawns>
