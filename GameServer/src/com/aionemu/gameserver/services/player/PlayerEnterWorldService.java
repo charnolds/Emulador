@@ -188,19 +188,19 @@ public final class PlayerEnterWorldService {
     
     private static final String alInfo; 
     private static final String serverInfo;
-    private static final String serverName = "Welcome to " + GSConfig.SERVER_NAME + "!";
-    //private static final String serverIntro = "Please remember: Accountsharing is not permitted";
+    private static final String serverName = "Bienvenido a " + GSConfig.SERVER_NAME + "!";
+    private static final String serverIntro = "Recuerde: no se permite compartir la cuenta.";
 
 
     static {
         String infoBuffer = LanguageHandler.translate(CustomMessageId.HOMEPAGE) + "\n";
         String alBuffer = "=============================\n";
-        alBuffer = alBuffer + "Core Developed by: \n";
-        alBuffer = alBuffer + "->Uriel Quintero\n";
-        alBuffer = alBuffer + "Core based on: \n";
-        alBuffer = alBuffer + "->Aion-Lightning\n";
-        alBuffer = alBuffer + "=============================\n";
-        alBuffer = alBuffer + "Copyright 2010-2016.\n";
+        //alBuffer = alBuffer + "Core Developed by: \n";
+        //alBuffer = alBuffer + "->Uriel Quintero\n";
+        //alBuffer = alBuffer + "Core based on: \n";
+        //alBuffer = alBuffer + "->Aion-Lightning\n";
+        //alBuffer = alBuffer + "=============================\n";
+        //alBuffer = alBuffer + "Copyright 2010-2016.\n";
         alBuffer = alBuffer + "Server&Client Version:" + GSConfig.SERVER_VERSION + " .";
         alBuffer = alBuffer + "=============================\n";
         serverInfo = infoBuffer;

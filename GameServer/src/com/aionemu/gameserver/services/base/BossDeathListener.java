@@ -72,7 +72,7 @@ public class BossDeathListener extends OnDieEventCallback {
 		if (winner instanceof Creature) {
 			final Creature kill = (Creature) winner;
 			//applyBaseBuff();
-			giveBaseRewardsToPlayers((Player) kill); 
+			//giveBaseRewardsToPlayers((Player) kill); 
 			if (kill.getRace().isPlayerRace()) {
 				base.setRace(kill.getRace());
 				race = kill.getRace();
@@ -81,7 +81,7 @@ public class BossDeathListener extends OnDieEventCallback {
 		} else if (winner instanceof PlayerGroup) {
 			final PlayerGroup team = (PlayerGroup) winner;
 			//applyBaseBuff();
-			giveBaseRewardsToPlayers((Player) winner);
+			//giveBaseRewardsToPlayers((Player) winner);
 			if (team.getRace().isPlayerRace()) {
 				base.setRace(team.getRace());
 				race = team.getRace();
@@ -131,10 +131,10 @@ public class BossDeathListener extends OnDieEventCallback {
             public void visit(Player player) {
                 if (team != null && kill == null) {
 					//%0 succeeded in conquering %1.
-                    PacketSendUtility.sendPacket(player, new SM_SYSTEM_MESSAGE(1301039, team.getRace().getRaceDescriptionId(), baseName));
+                    PacketSendUtility.sendPacket(player, new SM_SYSTEM_MESSAGE(1403136, team.getRace().getRaceDescriptionId(), baseName));
                 } else {
 					//%0 succeeded in conquering %1.
-                    PacketSendUtility.sendPacket(player, new SM_SYSTEM_MESSAGE(1301039, kill.getRace().getRaceDescriptionId(), baseName));
+                    PacketSendUtility.sendPacket(player, new SM_SYSTEM_MESSAGE(1403136, kill.getRace().getRaceDescriptionId(), baseName));
                 }
             }
         });
