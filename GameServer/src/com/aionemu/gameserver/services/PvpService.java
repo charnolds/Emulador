@@ -46,6 +46,9 @@ import com.aionemu.gameserver.utils.ThreadPoolManager;
 import com.aionemu.gameserver.utils.audit.AuditLogger;
 import com.aionemu.gameserver.utils.stats.AbyssRankEnum;
 import com.aionemu.gameserver.utils.stats.StatFunctions;
+import com.aionemu.gameserver.world.World;
+import com.aionemu.gameserver.world.knownlist.Visitor;
+
 import javolution.util.FastMap;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -103,7 +106,7 @@ public class PvpService {
     /**
      * @param victim
      */
-    public void doReward(Player victim) {
+    public void doReward(final Player victim) {
         // winner is the player that receives the kill count
         final Player winner = victim.getAggroList().getMostPlayerDamage();
 
@@ -140,6 +143,13 @@ public class PvpService {
             }
         }
 
+      //Global Announce, String Custom
+        World.getInstance().doOnAllPlayers(new Visitor<Player>() {
+			@Override
+			public void visit(Player player) {
+				PacketSendUtility.sendPacket(player, new SM_SYSTEM_MESSAGE(1403137,winner.getName(),victim.getName()));
+			}
+		});
         // Announce that player has died.
         PacketSendUtility.broadcastPacketAndReceive(victim, SM_SYSTEM_MESSAGE.STR_MSG_COMBAT_FRIENDLY_DEATH_TO_B(victim.getName(), winner.getName()));
 

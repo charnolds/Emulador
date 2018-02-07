@@ -93,34 +93,6 @@ public class BossDeathListener extends OnDieEventCallback {
 		BaseService.getInstance().capture(base.getId(), base.getRace());
 	}
 	
-	/**@Override
-	public void onBeforeDie(AbstractAI obj) {
-		Race race = null;
-		Npc boss = base.getBoss();
-		AionObject winner = base.getBoss().getAggroList().getMostDamage();
-		if (winner instanceof Creature) {
-			final Creature kill = (Creature) winner;
-			//applyBaseBuff();
-			giveBaseRewardsToPlayers((Player) kill); 
-			if (kill.getRace().isPlayerRace()) {
-				base.setRace(kill.getRace());
-				race = kill.getRace();
-			}
-			announceCapture(null, kill);
-		} else if (winner instanceof TemporaryPlayerTeam) {
-			final TemporaryPlayerTeam team = (TemporaryPlayerTeam) winner;
-			//applyBaseBuff();
-			//giveBaseRewardsToPlayers((Player) winner);
-			if (team.getRace().isPlayerRace()) {
-				base.setRace(team.getRace());
-				race = team.getRace();
-			}
-			announceCapture(team, null);
-		} else {
-		   base.setRace(Race.NPC);
-		}
-		BaseService.getInstance().capture(base.getId(), base.getRace());
-	}*/
 	@Override
 	public void onAfterDie(AbstractAI obj) {
 	}
@@ -131,9 +103,11 @@ public class BossDeathListener extends OnDieEventCallback {
             public void visit(Player player) {
                 if (team != null && kill == null) {
 					//%0 succeeded in conquering %1.
+                	//1403136 Custom String Client
                     PacketSendUtility.sendPacket(player, new SM_SYSTEM_MESSAGE(1403136, team.getRace().getRaceDescriptionId(), baseName));
                 } else {
 					//%0 succeeded in conquering %1.
+                	//1403136 Custom String Client
                     PacketSendUtility.sendPacket(player, new SM_SYSTEM_MESSAGE(1403136, kill.getRace().getRaceDescriptionId(), baseName));
                 }
             }
