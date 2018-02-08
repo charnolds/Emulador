@@ -106,24 +106,31 @@ public class SauroSupplyBaseInstance extends GeneralInstanceHandler {
 		switch (Rnd.get(1, 7)) {
 		    case 1:
 			    spawn(230847, 263.3429f, 463.5408f, 156.70581f, (byte) 90);
+			    spawn(230847, 322.1051f, 388.41913f, 159.1054f, (byte) 60);
 			break;
 			case 2:
 			    spawn(230847, 653.2666f, 372.9493f, 204.14606f, (byte) 72);
+			    spawn(230847, 498.09406f, 436.55927f, 182.11913f, (byte) 42);
 			break;
 			case 3:
 			    spawn(230847, 498.09406f, 436.55927f, 182.11913f, (byte) 42);
-			break;
-			case 4:
 			    spawn(230847, 257.0982f, 364.2677f, 159.13574f, (byte) 119);
 			break;
+			case 4:
+				spawn(230847, 263.3429f, 463.5408f, 156.70581f, (byte) 90);
+				spawn(230847, 257.0982f, 364.2677f, 159.13574f, (byte) 119);
+			break;
 			case 5:
-			    spawn(230847, 322.7196f, 363.9511f, 159.13863f, (byte) 59);
+				spawn(230847, 653.2666f, 372.9493f, 204.14606f, (byte) 72);
+				spawn(230847, 322.7196f, 363.9511f, 159.13863f, (byte) 59);
 			break;
 			case 6:
-			    spawn(230847, 322.1051f, 388.41913f, 159.1054f, (byte) 60);
+				spawn(230847, 498.09406f, 436.55927f, 182.11913f, (byte) 42);
+				spawn(230847, 322.1051f, 388.41913f, 159.1054f, (byte) 60);
 			break;
 			case 7:
-			    spawn(230847, 262.72226f, 396.23676f, 156.83209f, (byte) 30);
+				spawn(230847, 653.2666f, 372.9493f, 204.14606f, (byte) 72);
+				spawn(230847, 262.72226f, 396.23676f, 156.83209f, (byte) 30);
 			break;
 		}
     }
