@@ -193,6 +193,7 @@
     <siege_location id="1233" type="ARTIFACT" world="400010000" influence="0">
         <artifact_activation itemid="188020002" count="1" skill="12089" repeat_count="6" repeat_interval="9" cd="900"/>
     </siege_location>
+	<!-- Miren (Reshanta Upper) -->
     <siege_location id="1241" type="FORTRESS" world="400010000" name_id="801835" siege_duration="3600" influence="8">
         <artifact_activation itemid="188020000" count="1" skill="12077" cd="5400"/>
         <siege_reward top="12" itemid="186000242" m_count="3"/>
@@ -211,6 +212,7 @@
     <siege_location id="1243" type="ARTIFACT" world="400010000" influence="0">
         <artifact_activation itemid="188020002" count="1" skill="12080" cd="900"/>
     </siege_location>
+	<!-- Asteria (Reshanta Upper) -->
     <siege_location id="1251" type="FORTRESS" world="400010000" name_id="801837" siege_duration="3600" influence="8">
         <artifact_activation itemid="188020000" count="1" skill="12074" cd="5400"/>
         <siege_reward top="12" itemid="186000242" m_count="3"/>
@@ -241,6 +243,7 @@
     <siege_location id="1403" type="ARTIFACT" world="400010000" influence="0">
         <artifact_activation itemid="188020002" count="2" skill="12159" repeat_count="1" repeat_interval="1" cd="2700"/>
     </siege_location>
+	<!-- Temple Of Scales (Inggison) -->
     <siege_location id="2011" type="FORTRESS" world="210050000" name_id="802577" siege_duration="3600" influence="8">
         <artifact_activation itemid="188020001" count="2" skill="12132" cd="7200"/>
         <siege_reward top="12" itemid="186000242" m_count="1"/>
@@ -262,6 +265,7 @@
     <siege_location id="2014" type="ARTIFACT" world="210050000" influence="1">
         <artifact_activation itemid="188020002" count="2" skill="12159" repeat_count="5" repeat_interval="3" cd="1800"/>
     </siege_location>
+	<!-- Altar Of Avarice (Inggison) -->
     <siege_location id="2021" type="FORTRESS" world="210050000" name_id="802581" siege_duration="3600" influence="8">
         <artifact_activation itemid="188020001" count="2" skill="12106" cd="7200"/>
         <siege_reward top="12" itemid="186000242" m_count="1"/>
@@ -283,6 +287,7 @@
     <siege_location id="2024" type="ARTIFACT" world="210050000" influence="0">
         <artifact_activation itemid="188020002" count="1" skill="12159" repeat_count="5" repeat_interval="3" cd="1800"/>
     </siege_location>
+	<!-- Vorgaltem Citadel (Gelkmaros) -->
     <siege_location id="3011" type="FORTRESS" world="220070000" name_id="802585" siege_duration="3600" influence="8">
         <artifact_activation itemid="188020001" count="2" skill="12109" cd="7200"/>
         <siege_reward top="12" itemid="186000242" m_count="1"/>
@@ -304,6 +309,7 @@
     <siege_location id="3014" type="ARTIFACT" world="220070000" influence="0">
         <artifact_activation itemid="188020002" count="1" skill="12159" repeat_count="5" repeat_interval="3" cd="1800"/>
     </siege_location>
+	<!-- Crison Temple (Gelkmaros) -->
     <siege_location id="3021" type="FORTRESS" world="220070000" name_id="802589" siege_duration="3600" influence="8">
         <artifact_activation itemid="188020001" count="2" skill="12132" cd="7200"/>
         <siege_reward top="12" itemid="186000242" m_count="1"/>
@@ -330,6 +336,7 @@
     <siege_location id="3111" type="BOSSRAID_DARK" world="220070000" fortress_dependency="3011 3021"
                     siege_duration="7200"/>
     <!-- 3.0 -->
+	<!-- Heart of Fissure (Tiamaranta) -->
     <siege_location id="4011" type="SOURCE" world="600030000" name_id="804123" siege_duration="3600">
         <siege_reward top="24" itemid="186000242" m_count="1"/>
         <siege_reward top="16" itemid="186000242" m_count="1"/>
@@ -342,6 +349,7 @@
     <siege_location id="4013" type="ARTIFACT" world="600030000">
         <artifact_activation itemid="188020001" count="1" skill="12125" cd="300"/>
     </siege_location>
+	<!-- Heart of Gravity (Tiamaranta) -->
     <siege_location id="4021" type="SOURCE" world="600030000" name_id="804127" siege_duration="3600">
         <siege_reward top="24" itemid="186000242" m_count="1"/>
         <siege_reward top="16" itemid="186000242" m_count="1"/>
@@ -354,6 +362,7 @@
     <siege_location id="4023" type="ARTIFACT" world="600030000">
         <artifact_activation itemid="188020001" count="1" skill="12127" cd="300"/>
     </siege_location>
+	<!-- Heart of Petrification (Tiamaranta) -->
     <siege_location id="4031" type="SOURCE" world="600030000" name_id="804131" siege_duration="3600">
         <siege_reward top="24" itemid="186000242" m_count="1"/>
         <siege_reward top="16" itemid="186000242" m_count="1"/>
@@ -387,6 +396,7 @@
     <siege_location id="4053" type="ARTIFACT" world="600030000">
         <artifact_activation itemid="188020001" count="1" skill="12134" cd="300"/>
     </siege_location>
+	<!-- Sillus Fortress (Katalam) -->
     <siege_location id="5011" type="FORTRESS" world="600050000" name_id="807221" siege_duration="3600">
         <siege_reward top="12" itemid="186000242" m_count="4"/>
         <siege_reward top="30" itemid="186000242" m_count="2"/>
@@ -398,6 +408,7 @@
         <legion_reward itemid="188051892" m_count="1"/>
         <legion_reward itemid="122001531" m_count="1"/>
     </siege_location>
+	<!-- Silona Fortress (Danaria) -->
     <siege_location id="6011" type="FORTRESS" world="600060000" name_id="807225" siege_duration="3600">
         <siege_reward top="12" itemid="186000242" m_count="4"/>
         <siege_reward top="30" itemid="186000242" m_count="2"/>
@@ -410,6 +421,7 @@
         <legion_reward itemid="122001531" m_count="1"/>
 		<legion_reward itemid="187000118" m_count="1"/>
     </siege_location>
+	<!-- Pradeth Fortress (Danaria) -->
     <siege_location id="6021" type="FORTRESS" world="600060000" name_id="807229" siege_duration="3600">
         <siege_reward top="12" itemid="186000242" m_count="4"/>
         <siege_reward top="30" itemid="186000242" m_count="2"/>
@@ -422,6 +434,7 @@
         <legion_reward itemid="122001531" m_count="1"/>
 		<legion_reward itemid="125003501" m_count="1"/>
     </siege_location>
+	<!-- KALDOR FORTRESS -->
     <siege_location id="7011" type="FORTRESS" world="600090000" name_id="808285" occupy_count="2" siege_duration="3600">
         <siege_reward top="10" itemid="186000242" m_count="1"/>
         <siege_reward top="10" itemid="186000242" m_count="1"/>

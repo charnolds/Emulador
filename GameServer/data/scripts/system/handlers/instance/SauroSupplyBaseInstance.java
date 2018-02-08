@@ -205,17 +205,6 @@ public class SauroSupplyBaseInstance extends GeneralInstanceHandler {
                 spawn(730872, 129.16f, 432.33f, 153.33f, (byte) 0, 3); //portal to boss
                 break;
 
-			//230847 : Mystery Box Key spawn
-            case 233258: // Dark Devourer Derakanak
-                spawn(230847, 139.66022f, 437.02383f, 150.99849f, (byte) 106);
-                break;
-            case 233257: // Inspector Officer Sayahum
-                spawn(230847, 153.27214f, 436.90598f, 150.99849f, (byte) 76);
-                break;
-            case 233256: // Inspection Officer Obanuka
-                spawn(230847, 153.34435f, 423.44098f, 150.99849f, (byte) 45);
-                break;
-
             case 230857: // Guard Leader Achradim , 1 key boss
                 spawn(801967, 689.85376f, 903.41785f, 411.45676f, (byte) 105);
                 cancelTask();
