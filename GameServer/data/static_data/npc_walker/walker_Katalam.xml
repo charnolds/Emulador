@@ -2503,4 +2503,34 @@
 		<routestep step="10" x="2498.1025" y="1861.132" z="325.16284"/>
 		<routestep step="11" x="2490.063" y="1861.4701" z="326.65063"/>
 	</walker_template>
+	<walker_template route_id="A8893A1E8EED4D594811EC7630570E29" pool="1"><!-- ronde haute -->
+        <routestep step="1" x="1558.8936" y="2274.0854" z="174.75" rest_time="3000"/>
+        <routestep step="2" x="1580.5972" y="2261.641" z="174.5"/>
+        <routestep step="3" x="1596.5848" y="2262.889" z="174.375"/>
+        <routestep step="4" x="1602.2601" y="2279.8318" z="174.1087" rest_time="3000"/>
+    </walker_template>
+	<walker_template route_id="F08C5A0B4DD76C2A585D86EC925E92BB" pool="1"><!-- ligne droite -->
+        <routestep step="1" x="1559.8071" y="2249.884" z="175.884" rest_time="3000"/>
+        <routestep step="2" x="1580.4543" y="2257.099" z="174.55573" rest_time="2000"/>
+    </walker_template>
+	<walker_template route_id="0510C45FBC7987F813BA06BAD6496E2D" pool="1"><!-- ronde basse -->
+        <routestep step="1" x="1608.7687" y="2284.137" z="173.3953" rest_time="3000"/>
+        <routestep step="2" x="1646.0688" y="2301.9138" z="165.49461" rest_time="3000"/>
+    </walker_template>
+	<!-- Katalam Camp: 72 -->
+    <walker_template route_id="23906F7BB37CCBB491D559BB9822EC90" pool="1">
+        <routestep step="1" x="138.13582" y="2191.629" z="184.125" rest_time="3000"/>
+        <routestep step="2" x="140.83026" y="2169.2024" z="183.49796" rest_time="2000"/>
+    </walker_template>
+	<!-- Katalam Camp: 73 -->
+    <walker_template route_id="4EEE3E484BE6D0E5521623F68B3A815E" pool="1">
+        <routestep step="1" x="1104.9547" y="497.62073" z="184.875" rest_time="3000"/>
+        <routestep step="2" x="1089.2526" y="475.60236" z="184.40358"/>
+        <routestep step="3" x="1074.206" y="449.78162" z="176.47151" rest_time="2000"/>
+    </walker_template>
+	<!-- Katalam Camp: 74 -->
+    <walker_template route_id="FD224E61B44D5573A121798A65EF326E" pool="1">
+        <routestep step="1" x="866.6368" y="2749.451" z="182.01227" rest_time="3000"/>
+        <routestep step="2" x="901.981" y="2726.3027" z="177.39382" rest_time="2000"/>
+    </walker_template>
 </npc_walker>

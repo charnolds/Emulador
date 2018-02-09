@@ -32,7 +32,6 @@ package ai.instance.sauroSupplyBase;
 import com.aionemu.gameserver.ai2.AI2Actions;
 import com.aionemu.gameserver.ai2.AIName;
 import com.aionemu.gameserver.ai2.NpcAI2;
-import com.aionemu.gameserver.model.DialogAction;
 import com.aionemu.gameserver.model.gameobjects.Item;
 import com.aionemu.gameserver.model.gameobjects.player.Player;
 import com.aionemu.gameserver.network.aion.serverpackets.SM_DIALOG_WINDOW;
@@ -55,16 +54,15 @@ public class SauroBossPortalAI2 extends NpcAI2 {
         long keyCount = ((Item) player.getInventory().getFirstItemByItemId(185000179) != null ? ((Item) player.getInventory().getFirstItemByItemId(185000179)).getItemCount() : 0);
         boolean spawnportal = false;
         int portal = 0;
-        DialogAction finalAction = DialogAction.getActionByDialogId(dialogId);
-        switch (finalAction) {
-            case SETPRO1:
+        switch (dialogId) {
+            case 20008:
                 if (keyCount >= 1) {
                     player.getInventory().decreaseByItemId(185000179, 1);
                     spawnportal = true;
                     portal = 730876; // 1 key boss portal
                 }
                 break;
-            case SETPRO2:
+            case 20009:
                 if (keyCount >= 2) {
                     player.getInventory().decreaseByItemId(185000179, 2);
                     spawnportal = true;
@@ -75,7 +73,7 @@ public class SauroBossPortalAI2 extends NpcAI2 {
                 break;
         }
         if (spawnportal) {
-            spawn(portal, 129.99165f, 432.41684f, 151.66982f, (byte) 117);
+            spawn(portal, 127.99165f, 432.41684f, 151.66982f, (byte) 117);
             PacketSendUtility.sendPacket(player, new SM_DIALOG_WINDOW(getObjectId(), 0));
             AI2Actions.deleteOwner(this);
         } else {
