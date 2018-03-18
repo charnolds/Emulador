@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<beritra_invasion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="beritra_invasion.xsd">
-	<!-- Kaldor -->
-	<beritra_location id="44"/>
-	<beritra_location id="45"/>
-	<beritra_location id="46"/>
-</beritra_invasion>
